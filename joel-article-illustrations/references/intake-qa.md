@@ -44,13 +44,20 @@
 ```markdown
 ## 请选变量（直接回复编号/id 即可）
 
-1. **IP**（角色外形）
+1. **IP**（角色外形）— 完整表见 `references/ips/catalog.md`
    - `xiaohei` 小黑 ← 默认
    - `note` 便签
    - `dot` 句号
+   - `stick` 火柴人
+   - `cat` 小猫（deadpan，不卖萌）
+   - `dino` 恐龙（袖珍工位龙，不 Q 萌）
 
-2. **风格**
-   - `white-handdrawn` 纯白手绘 ← 默认（目前仅此一项成熟）
+2. **风格**— 完整表见 `references/styles/catalog.md`
+   - `white-handdrawn` 纯白手绘 ← 默认
+   - `soft-paper` 柔纸手绘
+   - `notebook-pen` 笔记本圆珠笔
+   - `risograph-duo` 双色孔版
+   - `bold-marker` 粗马克笔
 
 3. **图上文字语言**（标注/手写批注用什么语言）
    - `zh` **中文（默认）** — 不选或回「默认」时一律用中文

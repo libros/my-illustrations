@@ -1,6 +1,6 @@
 interface:
   display_name: "Joel 正文配图"
-  short_description: "给链接或原文→确认文章→问答选IP/风格/图上语言/张数→再规划或生图"
+  short_description: "读文问答后配图；IP含小黑/便签/火柴人/猫/龙等；多画风可选"
   default_prompt: "Use $joel-article-illustrations。我下面会给文章链接或原文：请先读文并确认理解，再用问答让我选 IP、风格、图上文字语言、张数和模式，等我回答后再执行。"
 policy:
   allow_implicit_invocation: true

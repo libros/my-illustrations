@@ -6,7 +6,7 @@
 
 - `{VISUAL_DNA}` ← `references/styles/<style-id>.md` 里的英文 Visual DNA 块
 - `{CHARACTER_BLOCK}` ← `references/ips/<ip-id>.md` 里的英文 prompt 块
-- `{CHARACTER_NAME}` ← 当前 IP 显示名（小黑 / 便签 / 句号）
+- `{CHARACTER_NAME}` ← 当前 IP 显示名（小黑 / 便签 / 句号 / 火柴人 / 小猫 / 恐龙）
 - `{LABEL_LANG}` ← `zh` / `en` / `bilingual`（图上标注语言，来自 intake）
 - `{LABEL_LANG_RULE}` ← 按下表填入
 - `{LABELS}` ← 已按 label_lang 写好的短标注
