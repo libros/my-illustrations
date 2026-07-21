@@ -1,4 +1,6 @@
-# 风格 DNA
+# 风格: 纯白手绘（white-handdrawn）
+
+默认风格。与历史 `style-dna` / 示例图一致。
 
 ## 一句话
 
@@ -12,7 +14,7 @@
 - 纯白背景：不要米色、暖灰、纸张纹理、渐变、阴影、噪点、复古纸感。
 - 黑色手绘线稿为主：细线、轻微抖动、不机械、不矢量、不厚重描边。
 - 大量留白：主体占画面约 40%-60%，至少 35% 空白，最好有一整块安静区域。
-- 少量中文手写批注：最多 5-8 处，每处尽量 2-8 个字。
+- 少量手写批注：最多 5-8 处；**用词语言以 intake 的 `label_lang` 为准**（默认中文 2–8 字；英文则 1–4 words）。
 - 一张图只讲一个核心动作、结构、状态或隐喻。
 - 结构要自然表达，不要在图上写结构类型名称。
 
@@ -25,24 +27,22 @@
 
 蓝色不是每张都必须用。颜色要克制，宁可少不要多。
 
+## 英文 Visual DNA 块（直接可粘贴）
+
+```text
+Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten annotations (language follows label_lang: zh / en / bilingual). Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
+```
+
 ## 绝对不要
 
-- 不要商业插画。
-- 不要 PPT 信息图。
-- 不要正式流程图。
-- 不要课程课件。
-- 不要可爱卡通海报。
-- 不要儿童插画。
-- 不要复杂架构图。
-- 不要精致扁平插画。
-- 不要科技感 UI。
-- 不要真实 App 截图。
+- 不要商业插画、PPT 信息图、正式流程图、课程课件。
+- 不要可爱卡通海报、儿童插画、精致扁平插画。
+- 不要科技感 UI、真实 App 截图。
 - 不要复杂背景、渐变、阴影、纹理。
 - 不要把每个节点都解释清楚。
 - 不要左上角写“Workflow 流程图 / 系统架构图 / 常见坑 / 路线图”等类型标题。
 
 ## 审美方向
 
-要怪诞、创意、有意思、简洁清爽、天马行空。
-
+要怪诞、创意、有意思、简洁清爽、天马行空。  
 不要可爱、幼稚、很复杂、死板。
